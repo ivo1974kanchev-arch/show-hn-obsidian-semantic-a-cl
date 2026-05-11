@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://show-hn-obsidian-semantic-a-cli-that-lets-agents-r3hcdtwjz.vercel.app/sitemap.xml
